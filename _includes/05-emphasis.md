@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*markdown languag is not difficult*
+_berkfk fnfnfn mfgn nffggg_
+**vdfvdmgdfgmgg.dm**
+**tartatatataatatatata**
+__tatati atatatauatisth__
